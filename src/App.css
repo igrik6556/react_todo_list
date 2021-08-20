@@ -1,0 +1,4 @@
+.task-done {
+    border-bottom-color: green!important;
+    box-shadow: 0 3px 3px 1px rgb(0 128 0 / 43%);
+}
